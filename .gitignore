@@ -1,0 +1,8 @@
+
+# variable d'environnement ,logs etc ..
+.env
+venv
+.conf
+.log
+.ini
+                      
