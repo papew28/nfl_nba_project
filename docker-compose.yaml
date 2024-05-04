@@ -10,7 +10,14 @@ x-airflow-common:
   volumes:
     - ./dags:/opt/airflow/dags
     - ./logs:/opt/airflow/logs
+    - ./utils:/opt/airflow/utils
+    - ./config:/opt/airflow/config
+    - ./etls/extract:/opt/airflow/etls/extract
+    - ./etls/load:/opt/airflow/etls/load
+    - ./etls/transform:/opt/airflow/etls/transform
+    - ./pipelines:/opt/airflow/pipelines
     - ./plugins:/opt/airflow/plugins
+    - ./requirements.txt:/opt/airflow/requirements.txt
     - ./airflow-db/airflow.cfg:/opt/airlfow/airflow.cfg
 services:
   postgres:
@@ -47,7 +54,7 @@ services:
 
   airflow-scheduler:
     <<: *airflow-common
-    command: scheduler
+    command: bash -c "pip install --no-cache-dir -r ./requirements.txt && airflow scheduler"
     container_name: airflow-scheduler
     hostname: airflow-scheduler
     depends_on:
@@ -60,7 +67,7 @@ services:
     entrypoint: /bin/bash
     command: 
       - -c
-      - airflow users list || ( airflow db migrate &&
+      - ( airflow db init &&
         airflow users create
           --role Admin
           --username airflow
