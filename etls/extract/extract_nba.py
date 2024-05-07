@@ -1,52 +1,37 @@
-import undetected_chromedriver as uc
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
-import pandas as pd
-import time
 import requests
-import pandas as pd
-from configparser import ConfigParser
-import os
+from bs4 import BeautifulSoup
 
-
-
-
-
-def extract_nba(url):
-    data={
-        "team":[],
-        "name":[],
-        "sport":[],
-        "blessure":[],
-        "position":[],
-        "date":[]
+def etl_extract_nba(url):
+   
+    data = {
+        "team": [],
+        "name": [],
+        "sport": [],
+        "blessure": [],
+        "position": [],
+        "date": [],
     }
+
     try:
-         options=uc.ChromeOptions()
-         options.add_argument('--headless')
-         options.add_argument('--disable-blink-features=AutomationControlled')
-         driver=uc.Chrome(options=options)
-         driver.get(url)
-         time.sleep(5)
-         driver.find_element(By.ID,"root_1").click()
-         WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.ID, "root_1_9")))
-         driver.find_element(By.ID,"root_1_9").click()
-         WebDriverWait(driver, 10).until( EC.presence_of_element_located((By.ID, "Col1-0-LeagueTeamsInjuries-Proxy")))
-         tab=driver.find_element(By.ID,"Col1-0-LeagueTeamsInjuries-Proxy")
-         elements = tab.find_elements(By.CSS_SELECTOR, 'ul li')
-         for element in elements:
-             rows=element.find_elements(By.CSS_SELECTOR, 'table>tbody>tr')
-             for row in rows:
-                data["team"].append(element.find_element(By.CSS_SELECTOR, 'div>div>div>span>h3').text)
-                data["name"].append(row.find_element(By.CSS_SELECTOR, 'td:nth-child(1)').text)
-                data["position"].append(row.find_element(By.CSS_SELECTOR, 'td:nth-child(2)').text)
-                data["blessure"].append(row.find_element(By.CSS_SELECTOR, 'td:nth-child(3)').text)
-                data["date"].append(row.find_element(By.CSS_SELECTOR, 'td:nth-child(4)').text)
-                data["sport"].append("nba")
-             pd.DataFrame(data).to_csv(os.path.join(os.getcwd(), "data")+"\data_nba.csv", index=False)
+        response = requests.get(url)
+        response.raise_for_status()  # Raise an exception for non-200 status codes
+
+        soup = BeautifulSoup(response.content, 'html.parser')
+        content=soup.find('div',{'id':"Col1-0-LeagueTeamsInjuries-Proxy"})
+        elements=content.find('div').find('ul').find_all('li')
+        for element in elements:
+            enregistrements=element.find("div")
+            team=enregistrements.find("div").find("h3").text
+            body=element.find("table")
+            rows=body.find('tbody').find_all('tr')
+            for row in rows:
+                data["team"].append(team)
+                contents=row.find_all('td')
+                data["name"].append(contents[0].find("div").find("a").find("span").text)
+                data["position"].append(contents[1].find("span").text)
+                data["sport"].append("basketball_nba")
+                data["blessure"].append(contents[2].find("span").text)
+                data["date"].append(contents[3].find("span").get("title"))
+        return data             
     except Exception as e:
         print(e)
-    finally:
-        driver.quit()
-  

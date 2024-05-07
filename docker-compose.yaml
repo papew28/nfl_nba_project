@@ -17,6 +17,7 @@ x-airflow-common:
     - ./etls/transform:/opt/airflow/etls/transform
     - ./pipelines:/opt/airflow/pipelines
     - ./plugins:/opt/airflow/plugins
+    - ./data:/opt/airflow/plugins
     - ./requirements.txt:/opt/airflow/requirements.txt
     - ./airflow-db/airflow.cfg:/opt/airlfow/airflow.cfg
 services:
