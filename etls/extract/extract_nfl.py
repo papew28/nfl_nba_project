@@ -1,7 +1,12 @@
-import requests
+from .outils import get_headers,extract_with_proxies
 from bs4 import BeautifulSoup
 import pandas as pd
 import os
+import sys
+
+sys.path.insert(0,os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+
+from utils.constant import api_key
 
 def etl_extract_nfl(url):
 
@@ -15,7 +20,7 @@ def etl_extract_nfl(url):
      }
 
     try:
-        response=requests.get(url)
+        response=extract_with_proxies(url,api_key,get_headers(api_key=api_key))
         if response.status_code==200:
             soup = BeautifulSoup(response.content, 'html.parser')
             tables = soup.find_all('div', class_='TableBaseWrapper')
