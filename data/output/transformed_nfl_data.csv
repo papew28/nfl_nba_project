@@ -1,0 +1,303 @@
+team,name,sport,blessure,position,date,position_complet
+Arizona,J. Gaines II,nfl,Knee,OG,2024-05-01,Offensive Guard
+Arizona,G. Williams,nfl,Ankle,CB,2024-05-01,Cornerback
+Arizona,D. Stills,nfl,Knee,DT,2024-05-01,Defensive Tackle
+Arizona,L. Collier,nfl,Biceps,DE,2024-05-01,Defensive End
+Arizona,K. White,nfl,Biceps,OLB,2024-05-01,Outside Linebacker
+Atlanta,J. Ali,nfl,Ankle,WR,2024-05-01,Wide Receiver
+Atlanta,T. Andersen,nfl,Pectoral,LB,2024-05-01,Linebacker
+Atlanta,D. Dalman,nfl,Ankle,C,2024-05-01,Center
+Atlanta,D. Hellams,nfl,Concussion,SAF,2024-05-01,Safety
+Atlanta,Z. Harrison,nfl,Knee,DE,2024-05-01,Defensive End
+Atlanta,K. Street,nfl,Pectoral,DE,2024-05-01,Defensive End
+Atlanta,K. Elliss,nfl,Knee,LB,2024-05-01,Linebacker
+Atlanta,A. Williams,nfl,Knee - ACL,RB,2024-05-01,Running Back
+Atlanta,A. Ogundeji,nfl,Foot,LB,2024-05-01,Linebacker
+Atlanta,K. Cousins,nfl,Achilles,QB,2024-04-02,Quarterback
+Atlanta,G. Jarrett,nfl,Knee - ACL,DT,2024-02-12,Defensive Tackle
+Baltimore,N. Samac,nfl,Lower Leg,C,2024-05-11,Center
+Baltimore,O. Oweh,nfl,Thumb,LB,2024-05-01,Linebacker
+Baltimore,D. Williams,nfl,Undisclosed,CB,2024-05-01,Cornerback
+Baltimore,M. Hamm,nfl,Ankle,LB,2024-05-01,Linebacker
+Baltimore,K. Mitchell,nfl,Knee - ACL,RB,2024-02-12,Running Back
+Baltimore,D. Ojabo,nfl,Knee - ACL,LB,2024-02-12,Linebacker
+Buffalo,M. Milano,nfl,Leg,OLB,2024-05-01,Outside Linebacker
+Buffalo,T. Doyle,nfl,Knee,OT,2024-05-01,Offensive Tackle
+Carolina,S. Brown,nfl,Undisclosed,RB,2024-05-10,Running Back
+Carolina,A. Parker,nfl,Undisclosed,CB,2024-05-10,Cornerback
+Carolina,I. Manning,nfl,Undisclosed,OT,2024-05-10,Offensive Tackle
+Carolina,R. Williams,nfl,Undisclosed,DT,2024-05-10,Defensive Tackle
+Carolina,C. Cherelus,nfl,Knee,LB,2024-05-01,Linebacker
+Carolina,L. Vilain,nfl,Knee,LB,2024-05-01,Linebacker
+Carolina,C. Mays,nfl,Finger,OG,2024-05-01,Offensive Guard
+Carolina,B. Christensen,nfl,Biceps,OG,2024-05-01,Offensive Guard
+Carolina,A. Barno,nfl,Knee,LB,2024-05-01,Linebacker
+Carolina,C. Zavala,nfl,Knee,OG,2024-05-01,Offensive Guard
+Carolina,E. Pineiro,nfl,Hamstring,K,2024-05-01,Kicker
+Carolina,D. Bootle,nfl,Knee,CB,2024-05-01,Cornerback
+Carolina,D. Wonnum,nfl,Quadriceps,LB,2024-05-01,Linebacker
+Carolina,C. Wooten,nfl,Ankle,LB,2024-05-01,Linebacker
+Chicago,K. Amegadjie,nfl,Quadriceps,OT,2024-05-10,Offensive Tackle
+Chicago,G. Everett,nfl,Knee,TE,2024-05-03,Tight End
+Chicago,C. Kmet,nfl,Forearm,TE,2024-05-01,Tight End
+Chicago,T. Smith,nfl,Quadriceps,CB,2024-05-01,Cornerback
+Chicago,N. Davis,nfl,Foot,OG,2024-05-01,Offensive Guard
+Cincinnati,J. Burrow,nfl,Wrist,QB,2024-05-10,Quarterback
+Cincinnati,T. Anderson,nfl,Knee,SAF,2024-05-01,Safety
+Cincinnati,D. Maxwell,nfl,Knee,DL,2024-05-01,Defensive Lineman
+Cincinnati,D. Cochran,nfl,Knee,OT,2024-05-01,Offensive Tackle
+Cincinnati,S. Hubbard,nfl,Ankle,DE,2024-04-22,Defensive End
+Cincinnati,D. Ivey,nfl,Knee - ACL,CB,2024-02-12,Cornerback
+Cleveland,R. McLeod,nfl,Biceps,FS,2024-05-10,Free Safety
+Cleveland,P. Strong Jr.,nfl,Back,RB,2024-05-01,Running Back
+Cleveland,J. Wills,nfl,Knee - MCL,OT,2024-05-01,Offensive Tackle
+Cleveland,D. Jones,nfl,Knee - MCL,OT,2024-05-01,Offensive Tackle
+Cleveland,D. Thompson-Robinson,nfl,Hip,QB,2024-05-01,Quarterback
+Cleveland,M. Woods II,nfl,Achilles,WR,2024-05-01,Wide Receiver
+Cleveland,D. Watson,nfl,Shoulder,QB,2024-05-01,Quarterback
+Cleveland,D. Hopkins,nfl,Hamstring,K,2024-05-01,Kicker
+Cleveland,J. Bitonio,nfl,Ankle,OG,2024-05-01,Offensive Guard
+Cleveland,G. Delpit,nfl,Groin,SAF,2024-05-01,Safety
+Cleveland,Q. Jefferson,nfl,Groin,DE,2024-04-15,Defensive End
+Cleveland,N. Hines,nfl,Knee - ACL,RB,2024-03-03,Running Back
+Cleveland,J. Conklin,nfl,Knee - ACL + MCL,OT,2024-02-12,Offensive Tackle
+Cleveland,N. Chubb,nfl,Knee - ACL + MCL,RB,2024-02-12,Running Back
+Dallas,P. Hendershot,nfl,Ankle,TE,2024-05-01,Tight End
+Dallas,T. Bass,nfl,Elbow,OT,2024-05-01,Offensive Tackle
+Dallas,D. Vaughn,nfl,Ankle,RB,2024-05-01,Running Back
+Dallas,C. Goodwin,nfl,Pectoral,DB,2024-05-01,Defensive Back
+Dallas,S. McKeon,nfl,Ankle,TE,2024-05-01,Tight End
+Dallas,J. Ball,nfl,Hip,OT,2024-05-01,Offensive Tackle
+Dallas,M. Smith,nfl,Shoulder,DT,2024-04-17,Defensive Tackle
+Dallas,L. Schoonmaker,nfl,Shoulder,TE,2024-04-17,Tight End
+Dallas,T. Diggs,nfl,Knee - ACL,CB,2024-02-12,Cornerback
+Dallas,"J. Stephens, Jr.",nfl,Knee - ACL,TE,2024-02-12,Tight End
+Dallas,D. Overshown,nfl,Knee - ACL,LB,2024-02-12,Linebacker
+Dallas,D. Durden,nfl,Knee - ACL,WR,2024-02-12,Wide Receiver
+Denver,C. Sterns,nfl,Knee,SAF,2024-05-01,Safety
+Denver,N. Bonitto,nfl,Calf,LB,2024-05-01,Linebacker
+Denver,J. McLaughlin,nfl,Head,RB,2024-05-01,Running Back
+Denver,G. Dulcich,nfl,Foot,TE,2024-05-01,Tight End
+Denver,D. Washington,nfl,Illness,RB,2024-05-01,Running Back
+Denver,T. Patrick,nfl,Achilles,WR,2024-02-12,Wide Receiver
+Denver,J. Griffith,nfl,Knee - ACL,LB,2024-02-12,Linebacker
+Denver,D. Turner-Yell,nfl,Knee - ACL,SAF,2024-02-12,Safety
+Detroit,E. Moseley,nfl,Knee - ACL,DB,2024-05-10,Defensive Back
+Detroit,J. Mitchell,nfl,Hand,TE,2024-05-01,Tight End
+Detroit,D. Barnes,nfl,Knee,LB,2024-05-01,Linebacker
+Detroit,J. Jefferson,nfl,Undisclosed,RB,2024-05-01,Running Back
+Detroit,K. Raymond,nfl,Knee,WR,2024-05-01,Wide Receiver
+Detroit,J. Reeves-Maybin,nfl,Groin,LB,2024-05-01,Linebacker
+Detroit,K. Joseph,nfl,Hip,DB,2024-04-19,Defensive Back
+Detroit,N. Sudfeld,nfl,Knee - ACL,QB,2024-02-12,Quarterback
+Green Bay,E. Stokes,nfl,Hamstring,CB,2024-05-01,Cornerback
+Green Bay,L. Tenuta,nfl,Ankle,OT,2024-05-01,Offensive Tackle
+Green Bay,R. Ford,nfl,Hamstring,DB,2024-05-01,Defensive Back
+Green Bay,Z. Tom,nfl,Concussion,OT,2024-05-01,Offensive Tackle
+Green Bay,S. Toure,nfl,Knee,WR,2024-05-01,Wide Receiver
+Green Bay,K. Enagbare,nfl,Knee - ACL,LB,2024-01-22,Linebacker
+Houston,N. Brown,nfl,Shoulder,WR,2024-05-09,Wide Receiver
+Houston,T. Howard,nfl,Knee,OT,2024-05-08,Offensive Tackle
+Houston,T. Dell,nfl,Leg,WR,2024-05-07,Wide Receiver
+Houston,T. Hairston II,nfl,Back,FB,2024-05-01,Fullback
+Houston,K. Green,nfl,Knee - Meniscus,G,2024-05-01,Guard
+Houston,K. Green,nfl,Shoulder - Labrum,OT,2024-05-01,Offensive Tackle
+Houston,K. Zierer,nfl,Ankle,OT,2024-05-01,Offensive Tackle
+Houston,D. Phillips,nfl,Shoulder,LB,2024-05-01,Linebacker
+Houston,T. Quitoriano,nfl,Groin,TE,2024-05-01,Tight End
+Houston,D. Horton,nfl,Personal,DE,2024-05-01,Defensive End
+Houston,J. Patterson,nfl,Lower Leg,C,2024-05-01,Center
+Houston,J. Ward,nfl,Quadriceps,SAF,2024-05-01,Safety
+Houston,E. Murray,nfl,Knee,SS,2024-05-01,Strong Safety
+Houston,L. Tunsil,nfl,Knee,OT,2024-05-01,Offensive Tackle
+Houston,M. Stewart,nfl,Shoulder,SAF,2024-05-01,Safety
+Houston,G. Arnold,nfl,Calf,SAF,2024-05-01,Safety
+Houston,L. Johnson,nfl,Knee,CB,2024-05-01,Cornerback
+Indianapolis,T. Leo,nfl,Undisclosed,DE,2024-05-01,Defensive End
+Indianapolis,W. Mallory,nfl,Hamstring,TE,2024-05-01,Tight End
+Indianapolis,A. Richardson,nfl,Shoulder - AC Joint,QB,2024-05-01,Quarterback
+Indianapolis,J. Witt,nfl,Hip,OT,2024-05-01,Offensive Tackle
+Indianapolis,B. Smith,nfl,Knee,OT,2024-05-01,Offensive Tackle
+Indianapolis,G. Avery,nfl,Knee - Meniscus,DE,2024-05-01,Defensive End
+Indianapolis,D. Scott,nfl,Knee - ACL,SAF,2024-05-01,Safety
+Indianapolis,J. Woods,nfl,Hamstring,TE,2024-05-01,Tight End
+Indianapolis,D. Flowers,nfl,Achilles,CB,2024-02-12,Cornerback
+Indianapolis,A. Dulin,nfl,Knee - ACL,WR,2024-02-12,Wide Receiver
+Jacksonville,G. Davis,nfl,Knee,WR,2024-05-10,Wide Receiver
+Jacksonville,C. Hodges,nfl,Knee,OT,2024-05-01,Offensive Tackle
+Jacksonville,C. Braswell,nfl,Hamstring,CB,2024-05-01,Cornerback
+Jacksonville,C. Kirk,nfl,Groin,WR,2024-05-01,Wide Receiver
+Jacksonville,A. Armstead,nfl,Knee - Meniscus,DE,2024-05-01,Defensive End
+Jacksonville,D. Thomas,nfl,Forearm,SAF,2024-05-01,Safety
+Jacksonville,V. Miller,nfl,Achilles,LB,2024-02-12,Linebacker
+Kansas City,C. Jones,nfl,Chest,LB,2024-05-01,Linebacker
+Kansas City,B. Cook,nfl,Ankle,FS,2024-05-01,Free Safety
+Kansas City,N. Remigio,nfl,Wrist,WR,2024-05-01,Wide Receiver
+Kansas City,D. Nnadi,nfl,Triceps,NT,2024-05-01,Nose Tackle
+Kansas City,J. Thuney,nfl,Pectoral,OG,2024-05-01,Offensive Guard
+Kansas City,N. Johnson,nfl,Knee - ACL,SAF,2024-05-01,Safety
+Kansas City,M. Brown,nfl,Heel,WR,2024-05-01,Wide Receiver
+Kansas City,C. Omenihu,nfl,Knee - ACL,DE,2024-02-12,Defensive End
+Las Vegas,D. Butler,nfl,Undisclosed,LB,2024-05-01,Linebacker
+Las Vegas,T. Munford,nfl,Knee,OT,2024-05-01,Offensive Tackle
+Las Vegas,A. Walter,nfl,Undisclosed,RB,2024-05-01,Running Back
+Las Vegas,C. Fotheringham,nfl,Hamstring,TE,2024-05-01,Tight End
+L.A. Chargers,C. Linsley,nfl,Illness,C,2024-05-10,Center
+L.A. Chargers,Z. Johnson,nfl,Neck,OG,2024-05-01,Offensive Guard
+L.A. Chargers,C. Rumph II,nfl,Foot,LB,2024-05-01,Linebacker
+L.A. Chargers,J. Palmer,nfl,Knee,WR,2024-05-01,Wide Receiver
+L.A. Chargers,T. Pipkins,nfl,Knee,OT,2024-05-01,Offensive Tackle
+L.A. Chargers,J. Hollins,nfl,Shoulder,LB,2024-05-01,Linebacker
+L.A. Chargers,T. Dye,nfl,Wrist,LB,2024-05-01,Linebacker
+L.A. Chargers,J. Bosa,nfl,Foot,LB,2024-05-01,Linebacker
+L.A. Chargers,J. Herbert,nfl,Finger,QB,2024-05-01,Quarterback
+L.A. Chargers,J. Dobbins,nfl,Achilles,RB,2024-02-12,Running Back
+L.A. Rams,S. Bennett,nfl,Illness,QB,2024-05-01,Quarterback
+L.A. Rams,A. Ward,nfl,Neck,LS,2024-05-01,Long Snapper
+L.A. Rams,H. Long,nfl,Knee - MCL,TE,2024-05-01,Tight End
+L.A. Rams,J. Jackson,nfl,Knee - Meniscus,OG,2024-05-01,Offensive Guard
+L.A. Rams,S. Jolly,nfl,Undisclosed,DB,2024-05-01,Defensive Back
+L.A. Rams,T. White,nfl,Achilles,CB,2024-02-12,Cornerback
+L.A. Rams,T. Higbee,nfl,Knee - ACL + MCL,TE,2024-01-19,Tight End
+Miami,E. Ezukanma,nfl,Neck,WR,2024-05-01,Wide Receiver
+Miami,Z. Vandenburgh,nfl,Undisclosed,LB,2024-05-01,Linebacker
+Miami,J. Holland,nfl,Knee,SAF,2024-05-01,Safety
+Miami,S. Ahmed,nfl,Foot,RB,2024-05-01,Running Back
+Miami,B. Chubb,nfl,Knee - ACL,OLB,2024-02-13,Outside Linebacker
+Miami,C. Goode,nfl,Kneecap,LB,2024-02-13,Linebacker
+Miami,J. Phillips,nfl,Achilles,LB,2024-02-13,Linebacker
+Minnesota,N. Thompson,nfl,Knee,CB,2024-05-01,Cornerback
+Minnesota,T. Jackson,nfl,Toe,DB,2024-05-01,Defensive Back
+Minnesota,J. Roy,nfl,Ankle,DT,2024-05-01,Defensive Tackle
+Minnesota,M. Blackmon,nfl,Shoulder,DB,2024-05-01,Defensive Back
+Minnesota,M. Knowles,nfl,Undisclosed,WR,2024-05-01,Wide Receiver
+Minnesota,J. Nailor,nfl,Concussion,WR,2024-05-01,Wide Receiver
+Minnesota,B. O'Neill,nfl,Foot,OT,2024-05-01,Offensive Tackle
+Minnesota,A. Van Ginkel,nfl,Foot,OLB,2024-05-01,Outside Linebacker
+Minnesota,B. Murphy,nfl,Knee - MCL,CB,2024-05-01,Cornerback
+Minnesota,E. Ingram,nfl,Shoulder,OG,2024-05-01,Offensive Guard
+Minnesota,T. Hockenson,nfl,Knee - ACL + MCL,TE,2024-02-13,Tight End
+New England,D. Ekuale,nfl,Biceps,DT,2024-05-01,Defensive Tackle
+New England,M. Jones,nfl,Shoulder,CB,2024-05-01,Cornerback
+New England,V. Lowe,nfl,Head,OT,2024-05-01,Offensive Tackle
+New England,C. Gonzalez,nfl,Shoulder - Labrum,CB,2024-05-01,Cornerback
+New England,I. Bolden,nfl,Concussion,CB,2024-05-01,Cornerback
+New England,M. Judon,nfl,Biceps,OLB,2024-05-01,Outside Linebacker
+New England,R. Reiff,nfl,Knee,OT,2024-05-01,Offensive Tackle
+New England,R. McMillan,nfl,Achilles,MLB,2024-05-01,Middle Linebacker
+New England,C. Strange,nfl,Knee,OG,2024-05-01,Offensive Guard
+New England,K. Bourne,nfl,Knee - ACL,WR,2024-02-13,Wide Receiver
+New Orleans,N. Saldiveri,nfl,Shoulder,OG,2024-05-01,Offensive Guard
+New Orleans,M. Lattimore,nfl,Ankle,CB,2024-05-01,Cornerback
+New Orleans,S. Lemieux,nfl,Biceps,OG,2024-05-01,Offensive Guard
+New Orleans,A. Kamara,nfl,Ankle,RB,2024-05-01,Running Back
+New Orleans,L. Young,nfl,Knee,OT,2024-05-01,Offensive Tackle
+New Orleans,R. Ramczyk,nfl,Knee,OT,2024-04-17,Offensive Tackle
+New Orleans,C. Jordan,nfl,Ankle,DE,2024-03-25,Defensive End
+New Orleans,C. Young,nfl,Neck,DE,2024-03-19,Defensive End
+New Orleans,N. Sewell,nfl,Knee - ACL,LB,2024-02-13,Linebacker
+N.Y. Giants,D. Jackson,nfl,Undisclosed,RB,2024-05-10,Running Back
+N.Y. Giants,J. Pinnock,nfl,Toe,SS,2024-05-01,Strong Safety
+N.Y. Giants,G. Brightwell,nfl,Hamstring,RB,2024-05-01,Running Back
+N.Y. Giants,D. Banks,nfl,Shoulder,CB,2024-05-01,Cornerback
+N.Y. Giants,E. Neal,nfl,Ankle,OT,2024-05-01,Offensive Tackle
+N.Y. Giants,J. Ezeudu,nfl,Toe,OT,2024-05-01,Offensive Tackle
+N.Y. Giants,L. Cager,nfl,Groin,TE,2024-05-01,Tight End
+N.Y. Giants,D. Slayton,nfl,Thumb,WR,2024-05-01,Wide Receiver
+N.Y. Giants,G. Gano,nfl,Knee,K,2024-05-01,Kicker
+N.Y. Giants,J. Schmitz,nfl,Shin,C,2024-05-01,Center
+N.Y. Giants,T. Phillips,nfl,Quadriceps,OT,2024-02-13,Offensive Tackle
+N.Y. Giants,A. Robinson,nfl,Knee - ACL + MCL,CB,2024-02-13,Cornerback
+N.Y. Giants,B. Ford-Wheaton,nfl,Knee,WR,2024-02-13,Wide Receiver
+N.Y. Giants,D. Jones,nfl,Knee - ACL,QB,2024-02-13,Quarterback
+N.Y. Jets,J. Sirmon,nfl,Undisclosed,LB,2024-05-11,Linebacker
+N.Y. Jets,Z. Barnes,nfl,Hamstring,LB,2024-05-01,Linebacker
+N.Y. Jets,A. Rodgers,nfl,Achilles,QB,2024-05-01,Quarterback
+N.Y. Jets,J. Tippmann,nfl,Ankle,C,2024-05-01,Center
+N.Y. Jets,J. Ruckert,nfl,Concussion,TE,2024-05-01,Tight End
+N.Y. Jets,W. Schweitzer,nfl,Calf,OG,2024-05-01,Offensive Guard
+N.Y. Jets,C. Clark,nfl,Knee - ACL,DB,2024-05-01,Defensive Back
+N.Y. Jets,M. Moses,nfl,Pectoral,OT,2024-03-20,Offensive Tackle
+N.Y. Jets,A. Vera-Tucker,nfl,Achilles,OG,2024-02-13,Offensive Guard
+N.Y. Jets,M. Williams,nfl,Knee - ACL,WR,2024-02-13,Wide Receiver
+Philadelphia,L. Clark,nfl,Undisclosed,OT,2024-05-03,Offensive Tackle
+Philadelphia,N. Dean,nfl,Foot,LB,2024-05-01,Linebacker
+Philadelphia,C. Uzomah,nfl,Knee - MCL,TE,2024-05-01,Tight End
+Philadelphia,R. Johnson,nfl,Undisclosed,OT,2024-05-01,Offensive Tackle
+Philadelphia,B. Covey,nfl,Knee,WR,2024-05-01,Wide Receiver
+Philadelphia,J. Jones,nfl,Concussion,WR,2024-05-01,Wide Receiver
+Philadelphia,D. Slay,nfl,Back,CB,2024-05-01,Cornerback
+Philadelphia,M. Hennessy,nfl,Knee,C,2024-05-01,Center
+Philadelphia,A. Brown,nfl,Knee,WR,2024-05-01,Wide Receiver
+Philadelphia,A. Okwuegbunam,nfl,Hamstring,TE,2024-05-01,Tight End
+Philadelphia,Z. McPhearson,nfl,Achilles,CB,2024-02-13,Cornerback
+Philadelphia,S. Brown,nfl,Knee - ACL,SAF,2024-01-20,Safety
+Pittsburgh,J. Porter Jr.,nfl,Concussion,CB,2024-05-01,Cornerback
+Pittsburgh,C. Holcomb,nfl,Knee,LB,2024-05-01,Linebacker
+Pittsburgh,D. Lowry,nfl,Pectoral,DE,2024-05-01,Defensive End
+Pittsburgh,T. Watt,nfl,Knee - MCL,OLB,2024-05-01,Outside Linebacker
+Pittsburgh,T. Thompson,nfl,Neck,DB,2024-05-01,Defensive Back
+Pittsburgh,C. Heyward,nfl,Groin,DT,2024-04-16,Defensive Tackle
+Pittsburgh,C. Trice,nfl,Knee - ACL,CB,2024-02-13,Cornerback
+San Francisco,D. Jackson,nfl,Knee,DE,2024-05-01,Defensive End
+San Francisco,D. Gray,nfl,Shoulder - AC Joint,WR,2024-05-01,Wide Receiver
+San Francisco,C. Latu,nfl,Knee - Meniscus,TE,2024-05-01,Tight End
+San Francisco,N. Zakelj,nfl,Biceps,OT,2024-05-01,Offensive Tackle
+San Francisco,J. Hargrave,nfl,Thumb,NT,2024-05-01,Nose Tackle
+San Francisco,K. Davis,nfl,Ankle,DT,2024-05-01,Defensive Tackle
+San Francisco,T. Hawkins,nfl,Wrist,SAF,2024-05-01,Safety
+San Francisco,C. Ward,nfl,Groin,CB,2024-03-25,Cornerback
+San Francisco,G. Kittle,nfl,Groin,TE,2024-03-25,Tight End
+San Francisco,T. Hufanga,nfl,Knee - ACL,SAF,2024-02-13,Safety
+San Francisco,D. Greenlaw,nfl,Achilles,LB,2024-02-12,Linebacker
+Seattle,J. Peters,nfl,Foot,OT,2024-05-01,Offensive Tackle
+Seattle,A. Lucas,nfl,Knee,OT,2024-05-01,Offensive Tackle
+Seattle,D. Thomas,nfl,Knee,LB,2024-05-01,Linebacker
+Seattle,M. Morris,nfl,Shoulder,DE,2024-05-01,Defensive End
+Seattle,K. McIntosh,nfl,Thumb,RB,2024-05-01,Running Back
+Seattle,U. Nwosu,nfl,Pectoral,LB,2024-05-01,Linebacker
+Seattle,J. Baker,nfl,Wrist,OLB,2024-05-01,Outside Linebacker
+Seattle,J. Reed,nfl,Knee,DE,2024-05-01,Defensive End
+Seattle,A. Whitaker,nfl,Knee,CB,2024-05-01,Cornerback
+Seattle,D. Eskridge,nfl,Ribs,WR,2024-05-01,Wide Receiver
+Seattle,J. Reed II,nfl,Knee - ACL,SAF,2024-02-13,Safety
+Tampa Bay,T. Thomas,nfl,Hamstring,CB,2024-05-01,Cornerback
+Tampa Bay,K. Merriweather,nfl,Ankle,SAF,2024-05-01,Safety
+Tampa Bay,M. Greene,nfl,Calf,DT,2024-05-01,Defensive Tackle
+Tampa Bay,A. Nelson,nfl,Elbow,LB,2024-05-01,Linebacker
+Tampa Bay,J. Dean,nfl,Back,DB,2024-05-01,Defensive Back
+Tampa Bay,R. Gage,nfl,Knee,WR,2024-05-01,Wide Receiver
+Tennessee,A. Hooker,nfl,Knee,SAF,2024-05-06,Safety
+Tennessee,C. Campbell,nfl,Undisclosed,LB,2024-05-01,Linebacker
+Tennessee,J. Whyle,nfl,Knee,TE,2024-05-01,Tight End
+Tennessee,J. Gibbens,nfl,Back,LB,2024-05-01,Linebacker
+Tennessee,K. Jackson,nfl,Ankle,WR,2024-05-01,Wide Receiver
+Tennessee,T. McLendon Jr.,nfl,Shoulder,DE,2024-05-01,Defensive End
+Tennessee,L. Gifford,nfl,Hamstring,LB,2024-05-01,Linebacker
+Tennessee,C. Murphy,nfl,Shoulder,LB,2024-05-01,Linebacker
+Tennessee,A. Kendall,nfl,Knee,CB,2024-05-01,Cornerback
+Tennessee,W. Levis,nfl,Foot,QB,2024-05-01,Quarterback
+Tennessee,N. Petit-Frere,nfl,Shoulder,OT,2024-05-01,Offensive Tackle
+Tennessee,J. Duncan,nfl,Neck,OT,2024-05-01,Offensive Tackle
+Tennessee,H. Haskins,nfl,Undisclosed,RB,2024-05-01,Running Back
+Tennessee,D. Brunskill,nfl,Ankle,OG,2024-05-01,Offensive Guard
+Tennessee,R. Stonehouse,nfl,Knee,P,2024-05-01,Punter
+Tennessee,C. Farley,nfl,Back,CB,2024-05-01,Cornerback
+Tennessee,J. Simmons,nfl,Knee,DT,2024-05-01,Defensive Tackle
+Tennessee,C. Dowell,nfl,Knee - ACL,WR,2024-02-13,Wide Receiver
+Washington,A. Wylie,nfl,Elbow,OT,2024-05-01,Offensive Tackle
+Washington,D. Forrest,nfl,Shoulder,SAF,2024-05-01,Safety
+Washington,T. Castro-Fields,nfl,Shoulder,CB,2024-05-01,Cornerback
+Washington,P. Butler,nfl,Wrist,SAF,2024-05-01,Safety
+Washington,R. Stromberg,nfl,Knee,C,2024-05-01,Center
+Washington,C. Rodriguez Jr.,nfl,Ankle,RB,2024-05-01,Running Back
+Washington,J. Martin,nfl,Ankle,CB,2024-05-01,Cornerback
+Washington,B. Daniels,nfl,Shoulder,OG,2024-05-01,Offensive Guard
+Washington,D. Milne,nfl,Groin,WR,2024-05-01,Wide Receiver
+Washington,E. Obada,nfl,Lower Leg,DE,2024-05-01,Defensive End
+Washington,J. Allen,nfl,Knee,DE,2024-05-01,Defensive End
+Washington,A. Rogers,nfl,Achilles,TE,2024-05-01,Tight End
+Washington,C. Holmes,nfl,Concussion,CB,2024-05-01,Cornerback
+Washington,J. Reaves,nfl,Knee - ACL,DB,2024-02-13,Defensive Back
+Washington,N. Allegretti,nfl,Elbow,OG,2024-02-13,Offensive Guard
+Washington,J. Davis,nfl,Shoulder,LB,2024-02-13,Linebacker
