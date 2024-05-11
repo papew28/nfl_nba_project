@@ -1,7 +1,7 @@
-version: "3.8"
+version: "3.9"
 x-airflow-common:
   &airflow-common
-  image: apache/airflow:latest
+  image: apache/airflow:2.9.1-python3.9
   environment:
     - AIRFLOW__CORE__EXECUTOR=LocalExecutor
     - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
@@ -41,7 +41,7 @@ services:
     <<: *airflow-common
     container_name: airflow-webserver
     hostname: airflow-webserver
-    command: webserver
+    command: bash -c "airflow db upgrade && airflow webserver"
     ports:
       - "8080:8080"
     depends_on:

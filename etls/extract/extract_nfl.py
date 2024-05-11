@@ -12,11 +12,11 @@ def etl_extract_nfl(url):
 
     data= {
         "team": [],
-        "nom": [],
-        "position": [],
+        "name": [],
+        "sport": [],
         "blessure": [],
-        "date": [],
-        "sport": []
+        "position": [],
+        "date": []
      }
 
     try:
@@ -32,7 +32,7 @@ def etl_extract_nfl(url):
                    for row in rows:
                           data["team"].append(team)
                           blesser=row.find_all('td')
-                          data["nom"].append(blesser[0].find_all('span')[1].find('a').text)
+                          data["name"].append(blesser[0].find_all('span')[1].find('a').text)
                           data["position"].append(blesser[1].text.strip())
                           data["date"].append(blesser[2].find('span').text.strip())
                           data["blessure"].append(blesser[3].text.strip())

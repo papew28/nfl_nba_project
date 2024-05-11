@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from .outils import get_headers,extract_with_proxies
 
 def get_urls(url):
 

@@ -1,5 +1,4 @@
 import pandas as pd
-import os
 
 def etl_transform_nfl_data(data):
 
@@ -36,3 +35,4 @@ def etl_transform_nfl_data(data):
     datetime_object=[x.replace(year=2024).date() for x in datetime_object]
     data["date"] = datetime_object
     return data
+

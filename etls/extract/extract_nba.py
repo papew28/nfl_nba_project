@@ -2,10 +2,6 @@ from bs4 import BeautifulSoup
 #from .outils import get_headers,extract_with_proxies
 import requests
 
-import os
-import sys
-
-sys.path.insert(0,os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
 from utils.constant import api_key
 
@@ -47,6 +43,4 @@ def etl_extract_nba(url):
     except Exception as e:
         print(e)   
 
-data=etl_extract_nba("https://sports.yahoo.com/nba/injuries/")
 
-print(data)
